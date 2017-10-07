@@ -1,0 +1,1 @@
+zplug "hcgraf/zsh-sudo"
